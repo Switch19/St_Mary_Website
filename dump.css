@@ -1,0 +1,165 @@
+#main{
+    width: 100%;
+}
+#About{
+    width: 95%;
+    margin: 2% auto;
+    text-align: left;
+
+}
+
+#About img{
+    max-width: 37%;
+    margin: 2%;
+    padding-left: 2em;
+    min-width: 200px;
+    
+}
+.ahead{
+    width: 50%;
+    margin: 1%;
+    float: right;
+}
+.ahead h1{
+    font-size: 1.8em;
+    padding-top: 1em;
+    padding-bottom: 0.2em;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.ahead p{
+    color:rgb(19, 17, 17);
+    width: 100%;
+    font-size: 1.2em;
+    font-family: Helvetica;
+    word-spacing: 0.2em;
+    line-height: 1.3em;
+    padding: 1.2em 0.2em; 
+}
+.join{
+    background: url(/images/candle.jpg) center center;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    height: 100vh;    
+}
+ .bck{
+    padding-top: 7vh;
+}
+.join h2{
+    color: rgb(255, 255, 255);
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 1.3em;
+    padding: 1.2em;
+    text-shadow: black 2px 3px 5px;
+}
+.join h1{
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: bolder;
+    color: seashell;
+}
+.join p{
+    color: cadetblue;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: black 1px 1px;
+    padding: 1.3em;
+}
+.mass{
+    width: 100%;
+    margin-top: 1.5em;
+}
+.mass h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.9em;
+}
+.icon{
+    width: 98%;
+    margin: 1%;
+    text-align: center;
+}
+.icon-mass{
+    width: 32%;
+    margin: 0.5%;
+    display: inline-block;
+}
+.icon-mass img{
+    margin-bottom: 0;
+    transition: all .7s ease-in-out;
+}
+.icon-mass img:hover{
+    transform: scale(0.8) rotate(360deg);
+    color: lightblue;
+}
+.icon-mass h3{
+    color: darkblue;
+    font-size: 1.5em;
+    padding-bottom: 0.8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.icon-mass p{
+    word-break: keep-all;
+    color: #000;
+    padding: 0.7em;
+}
+
+
+
+#main{
+    width: 100%;
+}
+#About{
+    width: 95%;
+    margin: 2% auto;
+    text-align: left;
+
+}
+
+#About img{
+    max-width: 37%;
+    margin: 2%;
+    padding-left: 2em;
+    min-width: 200px;
+    
+}
+.ahead{
+    width: 50%;
+    margin: 1%;
+    float: right;
+}
+.ahead h1{
+    font-size: 1.8em;
+    padding-top: 1em;
+    padding-bottom: 0.2em;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.ahead p{
+    color:rgb(19, 17, 17);
+    width: 100%;
+    font-size: 1.2em;
+    font-family: Helvetica;
+    word-spacing: 0.2em;
+    line-height: 1.3em;
+    padding: 1.2em 0.2em; 
+}
+
+
+
+
+
+
