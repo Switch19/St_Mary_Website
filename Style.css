@@ -194,14 +194,15 @@ nav a:hover{
     padding: 0.9em;
 }
 .icon{
-    width: 98%;
-    margin: 1%;
+    width: 100%;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 .icon-mass{
     width: 32%;
-    margin: 0.5%;
-    display: inline-block;
+    /* margin: 0.5%; */
+    /* display: inline-block; */
 }
 .icon-mass img{
     margin-bottom: 0;
